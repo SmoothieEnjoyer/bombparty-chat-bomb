@@ -14,3 +14,5 @@
 ``python3 run.py MQNB "hello!" 20``
 
 ### Tested on Ubuntu 20.04 LTS Python 3.8.10
+To do:
+- Add proxy support
